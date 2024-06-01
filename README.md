@@ -1,2 +1,3 @@
 ﻿## Kubernetes-setup
-This guide provides step-by-step instructions for setting up a Kubernetes cluster with a master node and multiple worker nodes on Ubuntu. Kubernetes is an open-source platform designed to automate deploying, scaling, and operating application containers.
+Kubernetes is an open-source platform designed to automate deploying, scaling, and operating application containers.
+This guide provides step-by-step instructions for setting up a Kubernetes cluster with a master node and multiple worker nodes on Ubuntu. 
